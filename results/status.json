@@ -1,9 +1,8 @@
 {
-  "status": "blocked_no_credits",
-  "checked_on": "2026-10-24",
-  "authentication": "accepted",
-  "http_status": 402,
-  "provider_error": "You have no remaining credits.",
+  "status": "ready_for_colab_run",
+  "execution": "colab_local",
+  "hf_token_required": false,
+  "paid_api_required": false,
   "predictions_obtained": 0,
-  "planned_responses": 60
+  "planned_predictions": 60
 }

@@ -1,7 +1,9 @@
-huggingface_hub>=0.34,<2
-requests>=2.32,<3
-Pillow>=11,<13
-pandas>=2.2,<4
+# Run inside Google Colab; retain the preinstalled torch/torchvision GPU pair.
+transformers==4.57.1
+accelerate==1.10.1
+huggingface_hub>=0.34,<1
+num2words==0.5.14
+Pillow>=10.4
+pandas>=2.2
 scikit-learn>=1.5,<2
 matplotlib>=3.9,<4
-nbformat>=5.10,<6
