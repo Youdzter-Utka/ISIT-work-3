@@ -1,0 +1,31 @@
+id,page_title,label,hard,reason
+01,General Dynamics F-16 Fighting Falcon,military,0,Типичный истребитель
+02,Sukhoi Su-27,military,0,Типичный истребитель
+03,Lockheed Martin F-35 Lightning II,military,0,Типичный истребитель
+04,Northrop B-2 Spirit,military,0,Бомбардировщик необычной формы
+05,Fairchild Republic A-10 Thunderbolt II,military,0,Штурмовик
+06,Boeing C-17 Globemaster III,military,1,Военный транспорт без вооружения
+07,Lockheed C-5 Galaxy,military,1,Крупный транспорт похож на гражданский грузовой
+08,Airbus A400M Atlas,military,1,Турбовинтовой транспорт
+09,Boeing KC-135 Stratotanker,military,1,Заправщик похож на авиалайнер
+10,Airbus A330 MRTT,military,1,Военная версия гражданской платформы
+11,Boeing P-8 Poseidon,military,1,Патрульный на базе Boeing 737
+12,Boeing E-3 Sentry,military,1,ДРЛО на базе авиалайнера
+13,Beechcraft T-6 Texan II,military,1,Учебный похож на гражданский
+14,Pilatus PC-21,military,1,Военный учебный
+15,Alenia C-27J Spartan,military,1,Небольшой транспорт
+16,Airbus A380,civilian,0,Пассажирский авиалайнер
+17,Boeing 787 Dreamliner,civilian,0,Пассажирский авиалайнер
+18,Airbus A350,civilian,0,Пассажирский авиалайнер
+19,Embraer E-Jet family,civilian,0,Региональный пассажирский
+20,Cirrus SR22,civilian,0,Частный поршневой
+21,Lockheed L-100 Hercules,civilian,1,Гражданская версия военного транспорта
+22,Canadair CL-415,civilian,1,Пожарная амфибия
+23,Air Tractor AT-802,civilian,1,"Базовый сельскохозяйственный, не AT-802U"
+24,Extra EA-300,civilian,1,Пилотажный самолёт
+25,Sukhoi Su-26,civilian,1,Спортивный самолёт марки военных истребителей
+26,Bede BD-5,civilian,1,"Спортивный, необычный силуэт"
+27,Pilatus PC-12,civilian,1,Гражданский тип со специальными операторами
+28,Piaggio P.180 Avanti,civilian,1,Необычная компоновка
+29,Airbus Beluga,civilian,1,Специальный грузовой
+30,Boeing Dreamlifter,civilian,1,Крупногабаритный грузовой

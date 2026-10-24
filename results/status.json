@@ -1,0 +1,9 @@
+{
+  "status": "blocked_no_credits",
+  "checked_on": "2026-10-24",
+  "authentication": "accepted",
+  "http_status": 402,
+  "provider_error": "You have no remaining credits.",
+  "predictions_obtained": 0,
+  "planned_responses": 60
+}

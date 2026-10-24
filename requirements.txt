@@ -1,0 +1,7 @@
+huggingface_hub>=0.34,<2
+requests>=2.32,<3
+Pillow>=11,<13
+pandas>=2.2,<4
+scikit-learn>=1.5,<2
+matplotlib>=3.9,<4
+nbformat>=5.10,<6
