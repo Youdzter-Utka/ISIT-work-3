@@ -1,0 +1,37 @@
+{
+  "experiment": "b08ed901dd1fe97d68f4132dfbdfb4b0c180dd3700176d9cbc77022933be7207",
+  "config": {
+    "execution": "colab_local",
+    "models": [
+      {
+        "id": "HuggingFaceTB/SmolVLM-500M-Instruct",
+        "revision": "a7da5b986cb59b408707209984f360a5f4ad7e47",
+        "family": "smolvlm"
+      },
+      {
+        "id": "Qwen/Qwen2.5-VL-3B-Instruct",
+        "revision": "66285546d2b821cf421d4f5eb2576359d3770cd3",
+        "family": "qwen2_5_vl"
+      }
+    ],
+    "max_new_tokens": 16,
+    "max_image_edge": 768,
+    "seed": 42,
+    "do_sample": false
+  },
+  "prompt": "Classify the largest, primary aircraft in this photo. Use the main intended role of its aircraft variant, not only its operator. Military includes fighters, military trainers, transports, tankers and patrol aircraft. Civilian includes passenger, civilian cargo, private, sport, agricultural and firefighting aircraft. Reply with exactly one word: military or civilian.",
+  "runtime": {
+    "python": "3.13.16",
+    "packages": {
+      "torch": "2.11.0+cu130",
+      "transformers": "4.57.1",
+      "accelerate": "1.10.1",
+      "Pillow": "11.3.0",
+      "huggingface_hub": "0.36.2"
+    },
+    "device": "cuda",
+    "device_name": "Tesla T4",
+    "dtype": "float16",
+    "attention": "sdpa"
+  }
+}

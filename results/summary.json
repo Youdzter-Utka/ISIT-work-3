@@ -1,0 +1,10 @@
+{
+  "status": "complete",
+  "n_images": 30,
+  "n_predictions": 60,
+  "model_a": "HuggingFaceTB/SmolVLM-500M-Instruct",
+  "model_b": "Qwen/Qwen2.5-VL-3B-Instruct",
+  "a_only_correct": 0,
+  "b_only_correct": 14,
+  "mcnemar_exact_p": 0.0001220703125
+}

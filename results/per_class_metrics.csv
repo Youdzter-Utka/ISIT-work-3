@@ -1,0 +1,5 @@
+model,class,precision,recall,f1,support
+HuggingFaceTB/SmolVLM-500M-Instruct,military,0.5,1.0,0.6666666666666666,15
+HuggingFaceTB/SmolVLM-500M-Instruct,civilian,0.0,0.0,0.0,15
+Qwen/Qwen2.5-VL-3B-Instruct,military,0.9375,1.0,0.967741935483871,15
+Qwen/Qwen2.5-VL-3B-Instruct,civilian,1.0,0.9333333333333333,0.9655172413793104,15
